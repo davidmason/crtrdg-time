@@ -11,7 +11,14 @@
     "url": "https://github.com/davidmason/crtrdg-time.git"
   },
   "keywords": [
-    "crtrdg"
+    "crtrdg",
+    "games",
+    "html",
+    "canvas",
+    "animation",
+    "requestAnimationFrame",
+    "game library",
+    "time"
   ],
   "author": "David Mason <drdmason@gmail.com>",
   "license": "MIT",
